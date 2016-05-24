@@ -1,6 +1,10 @@
 <?php
 /*
+<<<<<<< HEAD
 Plugin Name: DannyForm
+=======
+Plugin Name: DannyForm YEAHHHHHHH
+>>>>>>> test
 Plugin URI: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Description: Contact Form The Win 
 Version: 1.0
