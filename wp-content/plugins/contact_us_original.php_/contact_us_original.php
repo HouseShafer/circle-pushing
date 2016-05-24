@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: DannyForm THIS IS THE TEST BRANCH!!!!!!!!!!!
+Plugin Name: DannyForm YEAHHHHHHH
 Plugin URI: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Description: Contact Form The Win 
 Version: 1.0
