@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: DannyForm FOR THE WIN YO
+Plugin Name: DannyForm
 Plugin URI: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Description: Contact Form The Win 
 Version: 1.0
