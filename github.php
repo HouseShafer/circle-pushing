@@ -3,4 +3,5 @@
 `git checkout test`;
 `git pull github master`;
 `git checkout master`;
+ echo ('YAYAYAAYYA');
 ?>
