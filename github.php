@@ -5,9 +5,9 @@
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
  <?php `git stash`; ?>
- <?php `git pull github test`; ?>
+ <?php `git pull origin test`; ?>
  <?php `git checkout test`; ?>
- <?php `git pull github master`; ?>
+ <?php `git pull origin master`; ?>
  <?php `git checkout master`; ?>
  <?php echo '<p>Hello World</p>'; ?> 
  </body>
